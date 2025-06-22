@@ -60,3 +60,7 @@ The primary goal of this project is to provide the owner of Madhav Store with a 
 - Made category-level performance instantly understandable
 - Provided state-wise and payment mode analysis for better market targeting
 - Built AOV as a custom performance metric to measure order efficiency
+
+  Screenshot - https://github.com/Silla03/ECOMMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.jpg
+
+  
