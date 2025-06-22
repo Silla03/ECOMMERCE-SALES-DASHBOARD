@@ -62,6 +62,6 @@ The primary goal of this project is to provide the owner of Madhav Store with a 
 - Built AOV as a custom performance metric to measure order efficiency
 
  ## Screenshot
- Show what the dashboard looks like. - ![Alt text](https://github.com/Silla03/ECOMMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.jpg)
+ Show what the dashboard looks like. -
  ![Dashboard Preview](https://github.com/Silla03/ECOMMERCE-SALES-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.jpg)
   
